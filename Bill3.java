@@ -10,6 +10,6 @@ public class Bill3 {
 		double SplitsBill = (double) bill / 3;
 		// System.out.println("pay " + Math.ceil(SplitsBill) + " Shekels each.");
 		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 +
-						 ": pay " + Math.ceil(SplitsBill) + " Shekels each.");  
+						 ": pay " + Math.ceil(SplitsBill) + " Shekels each."); 				  
 	}
 }
